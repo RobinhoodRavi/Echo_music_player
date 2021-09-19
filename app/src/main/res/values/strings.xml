@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ECHO</string>
+    <string name="all_songs">All songs</string>
+    <string name="favourites">Favourites</string>
+    <string name="setting">Setting</string>
+    <string name="about_us">About us</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+
+</resources>

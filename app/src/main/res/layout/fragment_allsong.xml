@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.AllsongFragment">
+
+
+    <TextView
+        android:id="@+id/txtAllsong"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="AllSong Fragment"
+        android:textSize="20sp"
+        android:padding="10dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerAllsong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_margin="20dp"
+        />
+
+</RelativeLayout>
